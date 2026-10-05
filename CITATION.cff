@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you cite or reference this practical guide in film research, media production workflows, or document security publications, please cite it as below."
+authors:
+  - family-names: "Cartner"
+    given-names: "Alex"
+title: "Screenplay Security Guide: Protect, Share and Monitor Confidential Scripts"
+version: 1.0.0
+date-released: 2026-10-05
+url: "https://github.com/georgelinde887-sudo/screenplay-security-guide"
+repository-code: "https://github.com/georgelinde887-sudo/screenplay-security-guide"
+abstract: "An open-source practical guide and architectural reference for screenwriters, filmmakers, producers, and entertainment production teams to securely distribute confidential screenplay PDFs, implement dynamic watermarking and NDA access gates, and analyze reader engagement without relinquishing document control."
+keywords:
+  - "screenplay security"
+  - "secure script sharing"
+  - "film production document security"
+  - "screenplay watermarking"
+  - "dynamic watermarks"
+  - "screenplay NDA"
+  - "document analytics"
+  - "reader engagement tracking"
+license: "CC-BY-4.0"
