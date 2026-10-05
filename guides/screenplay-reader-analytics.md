@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Reader Analytics: Tracking Dwell Time and Script Engagement"
+description: "How to analyze screenplay reader engagement using page-by-page dwell time, completion percentages, and reading drop-off curves."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/screenplay-reader-analytics.html"
+---
+
 # Screenplay Reader Analytics: Interpreting Engagement and Page Dwell Time
 
 In traditional film industry submissions, writers and producers send a script attachment and enter a prolonged state of uncertainty. Weeks pass with no feedback. Senders wonder:

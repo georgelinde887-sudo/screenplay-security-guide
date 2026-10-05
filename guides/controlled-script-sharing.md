@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Controlled Script Sharing: Workflows Across Production Roles"
+description: "Step-by-step role-based workflows for sharing confidential screenplays with producers, directors, A-list talent, casting agents, and film financiers."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/controlled-script-sharing.html"
+---
+
 # Controlled Script Sharing: Workflows Across Production Roles
 
 Distributing a screenplay is rarely a one-size-fits-all procedure. During the lifecycle of a film or television project, a script passes through many hands—producers evaluating pitch packaging, directors preparing visual treatments, talent agents considering attachment, and department heads budgeting scene sequences.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Security Checklist: Pre-Flight Verification for Film & TV"
+description: "A 5-phase pre-flight checklist for film and television production teams to sanitize documents, gate access, watermark pages, and monitor script reads."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/screenplay-security-checklist.html"
+---
+
 # Screenplay Security Checklist: Pre-Flight Verification for Film & TV
 
 Before sending an unreleased screenplay, episodic pilot, or pitch treatment to any external party, execute this pre-flight verification checklist. Following these standardized stages minimizes leak vectors, ensures legal traceability, and prevents embarrassing metadata exposure.

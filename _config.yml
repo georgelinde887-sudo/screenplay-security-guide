@@ -1,7 +1,10 @@
 title: "Screenplay Security Guide"
-description: "Open-source practical guide to screenplay security, controlled script sharing, NDA access, watermarking and reader engagement."
+description: "Open-source practical guide to screenplay security, controlled script sharing, NDA access, dynamic watermarking, and reader engagement analytics."
+url: "https://georgelinde887-sudo.github.io"
+baseurl: "/screenplay-security-guide"
 theme: jekyll-theme-primer
 plugins:
+  - jekyll-seo-tag
   - jekyll-relative-links
 relative_links:
   enabled: true
@@ -15,3 +18,5 @@ include:
   - CONTRIBUTING.md
   - LICENSE
   - SECURITY.md
+  - sitemap.xml
+  - robots.txt

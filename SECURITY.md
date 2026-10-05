@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Security Policy and Disclosure Guidelines"
+description: "Security policy, realistic digital rights management boundaries, and responsible disclosure procedures for screenplay security."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/SECURITY.html"
+---
+
 # Security Policy and Disclosure Guidelines
 
 The **Screenplay Security Guide** aims to provide realistic, technically rigorous information regarding document security, controlled access, and leak deterrence for the film and television industry.

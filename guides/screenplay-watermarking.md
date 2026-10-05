@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Watermarking Guide: Dynamic Attribution and Leak Deterrence"
+description: "Practical guide to dynamic screenplay watermarking. Learn optimal opacity, diagonal rotation, recipient email interpolation, and visual leak deterrence."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/screenplay-watermarking.html"
+---
+
 # Screenplay Watermarking: Dynamic Attribution and Leak Deterrence
 
 Watermarking has been an established convention in Hollywood and international film production for decades. Traditionally, assistant directors or production coordinators stamped physical script copies with red ink or embedded static stamps like `CONFIDENTIAL - PROPERTY OF STUDIO` across cover pages.

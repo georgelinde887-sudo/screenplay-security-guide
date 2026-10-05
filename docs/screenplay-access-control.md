@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Access Control: Verification Protocols and Lifecycle Management"
+description: "Technical reference for screenplay access control, including email challenge gates, out-of-band passwords, whitelisting, and remote revocation."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/docs/screenplay-access-control.html"
+---
+
 # Screenplay Access Control: Architecture and Verification Protocols
 
 In confidential film and television workflows, **access control** serves as the initial perimeter defense. It determines who may request document pages, validates their identity against production authorizations, and enforces credential barriers before any script content is rendered.

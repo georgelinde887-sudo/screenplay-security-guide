@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Security Documentation & Architecture Overview"
+description: "Technical architecture, threat models, and operational specifications for secure film production document sharing and reader telemetry."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/docs/"
+---
+
 # Screenplay Security Documentation
 
 Welcome to the technical documentation repository for **Screenplay Security & Controlled Document Sharing**. This technical reference provides production companies, studios, independent filmmakers, and screenwriters with deep-dive architectural specifications for distributing confidential scripts.

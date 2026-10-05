@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Contributing to the Screenplay Security Guide"
+description: "Contribution guidelines, standards, and code of conduct for the open-source Screenplay Security Guide."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/CONTRIBUTING.html"
+---
+
 # Contributing to the Screenplay Security Guide
 
 Thank you for your interest in improving this open-source resource on screenplay security, confidential document distribution, and entertainment production workflows.

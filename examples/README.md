@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Demonstration Screenplay: THE LAST CUT Test Payload"
+description: "Testing protocols and benchmark verification procedures using the fictional sample screenplay THE LAST CUT."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/examples/"
+---
+
 # Fictional Demonstration Screenplay: "THE LAST CUT"
 
 This directory contains a sample screenplay document used throughout this repository to illustrate secure document workflows, viewer access gating, watermark positioning, and engagement analytics.

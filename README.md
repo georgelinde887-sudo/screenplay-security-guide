@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Security Guide: Protect, Share and Monitor Confidential Scripts"
+description: "Open-source practical guide to screenplay security, controlled script sharing, NDA access, dynamic watermarking, and reader engagement analytics for film production teams."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/"
+---
+
 # Screenplay Security Guide: Protect, Share and Monitor Confidential Scripts
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)

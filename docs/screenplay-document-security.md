@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Document Security: Canvas Streaming & Leak Mitigation"
+description: "Architectural specification for browser-based HTML5 canvas script rendering, dynamic watermark interpolation, and screenshot mitigation."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/docs/screenplay-document-security.html"
+---
+
 # Screenplay Document Security: Rendering Pipelines and Leak Mitigation
 
 Once a reviewer satisfies all access control requirements, the document security layer governs how screenplay content is decoded, rendered, and displayed on the client device.

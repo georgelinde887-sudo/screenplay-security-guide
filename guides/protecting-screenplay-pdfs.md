@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Protecting Screenplay PDFs: From Static Files to Controlled Viewing"
+description: "Learn how to protect unreleased screenplay PDFs by transitioning from static email attachments to controlled, in-browser streaming with download restrictions."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/protecting-screenplay-pdfs.html"
+---
+
 # Protecting Screenplay PDFs: From Static Files to Controlled Viewing
 
 In the film and episodic television industry, an unreleased screenplay represents the foundational intellectual property of an entire production. It contains narrative arcs, character bibles, casting requirements, dialogue beats, and proprietary plot revelations. 

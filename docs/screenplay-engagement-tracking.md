@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay Engagement Tracking: Telemetry Pipelines & Metrics"
+description: "Technical specifications for reader telemetry, active dwell time computation, three-act structure mapping, and forensic audit logging."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/docs/screenplay-engagement-tracking.html"
+---
+
 # Screenplay Engagement Tracking: Telemetry Pipelines and Reader Metrics
 
 Document telemetry transforms screenplay distribution from an unmonitored blind spot into an observable operational pipeline. In film packaging and development, knowing how a creative partner interacts with a script provides vital strategic clarity.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Screenplay NDA Access: In-Line Confidentiality Gates"
+description: "How to enforce Non-Disclosure Agreements (NDAs) before script access using in-line digital agreement gates with audit-ready execution logging."
+canonical_url: "https://georgelinde887-sudo.github.io/screenplay-security-guide/guides/nda-access-for-screenplays.html"
+---
+
 # NDA Access for Screenplays: Implementing In-Line Confidentiality Gates
 
 Before sharing an unproduced screenplay, production companies frequently require recipients to execute a Non-Disclosure Agreement (NDA). In high-budget feature development and prestige television, an unreleased script leak can disrupt financing, compromise casting exclusivity, or spoil critical plot twists.
