@@ -1,0 +1,17 @@
+title: "Screenplay Security Guide"
+description: "Open-source practical guide to screenplay security, controlled script sharing, NDA access, watermarking and reader engagement."
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - guides
+  - docs
+  - examples
+  - screenshots
+  - CITATION.cff
+  - CONTRIBUTING.md
+  - LICENSE
+  - SECURITY.md
